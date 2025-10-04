@@ -74,3 +74,6 @@ Aplikasi akan secara otomatis terbuka di browser default Anda.
 ```
 
 ---
+
+
+**⭐️ Jika Anda merasa konten ini bermanfaat, jangan lupa memberi repositori tersebut bintang.**
