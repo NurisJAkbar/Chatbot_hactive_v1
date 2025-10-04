@@ -49,7 +49,7 @@ streamlit run app.py
 ```
 Aplikasi akan secara otomatis terbuka di browser default Anda.
 
-##  kullanım kılavuzu (Cara Menggunakan)
+##  Cara Menggunakan
 
 1.  **Buka Aplikasi**: Setelah menjalankan perintah di atas, sebuah tab browser akan terbuka dengan alamat seperti `http://localhost:8501`.
 2.  **Konfigurasi API**:
