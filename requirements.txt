@@ -1,0 +1,8 @@
+# requirements.txt
+
+streamlit
+google-generativeai
+exa-py
+pandas
+# python-dotenv tidak lagi wajib, tapi tidak apa-apa jika masih ada
+python-dotenv
