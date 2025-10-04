@@ -1,5 +1,3 @@
-Tentu saja. Berikut adalah file README.md yang lengkap dan jelas untuk aplikasi chatbot Anda. File ini menjelaskan semua yang dibutuhkan pengguna, mulai dari fitur hingga cara menjalankannya, dalam format yang mudah dibaca.
-
 Chatbot Pembelajaran Cerdas (Intelligent Learning Chatbot)
 
 ![alt text](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
